@@ -1,3 +1,4 @@
+ABOUT FILES FOLDER:
 The images.py script is a simple Python script that demonstrates how to load and display an image using the OpenCV library. OpenCV is a powerful library commonly used for computer vision tasks such as image processing and analysis.
 
 Features:
@@ -10,3 +11,7 @@ To run the images.py script, you need the following installed:
 
 1. Python (3.x)
 2. OpenCV library for Python
+
+
+ABOUT IMAGES FOLDER:
+create two images of some makeup products in this folder.
