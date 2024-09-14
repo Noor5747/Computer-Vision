@@ -1,1 +1,1 @@
-# computer-vision
+The images.py script is a simple Python script that demonstrates how to load and display an image using the OpenCV library. OpenCV is a powerful library commonly used for computer vision tasks such as image processing and analysis.
